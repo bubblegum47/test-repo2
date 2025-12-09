@@ -7,4 +7,4 @@ num2 = int(second)
 sum = num1 + num2
 sub = num1 - num2
 
-print("result:", result)
+print("result:", sub)
